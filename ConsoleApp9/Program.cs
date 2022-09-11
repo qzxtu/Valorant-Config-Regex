@@ -17,7 +17,6 @@ namespace ConsoleApp9
                 Console.WriteLine(a);
             }
             Console.ReadLine();
-
         }
     }
 }
